@@ -1,8 +1,5 @@
 ### Hi there 👋
-⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 76.82 %
+⏳ Year progress { ███████████████████████▁▁▁▁▁▁▁ } 76.85 %
 ---
-⏰ Updated on Fri, 08 Oct 2021 09:45:05 GMT
+⏰ Updated on Fri, 08 Oct 2021 12:10:59 GMT
 ---
-### My GitHub Contributions    
-
-![](https://raw.githubusercontent.com/Rousery/Rousery/main/assets/github-contribution-grid-snake.svg)  
